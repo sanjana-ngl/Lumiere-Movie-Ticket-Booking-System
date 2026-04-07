@@ -1,0 +1,18 @@
+{
+  "users": {
+    "demo": {
+      "username": "demo",
+      "password": "Demo@123",
+      "email": "demo@lumiere.com",
+      "fullName": "Demo User",
+      "createdAt": "2025-01-01"
+    },
+    "admin": {
+      "username": "admin",
+      "password": "Admin@123",
+      "email": "admin@lumiere.com",
+      "fullName": "Admin",
+      "createdAt": "2025-01-01"
+    }
+  }
+}
